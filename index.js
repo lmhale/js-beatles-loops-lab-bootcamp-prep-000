@@ -25,3 +25,12 @@ var results = [];
 }
 return results;
 }
+
+
+function iLoveTheBeatles(num){
+  results = [];
+  do {
+  num --;
+} while (array.length > 0 && maybeTrue());
+  return array;
+}
