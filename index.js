@@ -30,7 +30,7 @@ return results;
 function iLoveTheBeatles(num){
   results = [];
   do {
-  num --;
-} while (array.length > 0 && maybeTrue());
-  return array;
+  num ++;
+} while (num < 17);
+  return results.push('I love the Beatles!');
 }
