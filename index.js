@@ -13,3 +13,15 @@ var instruments =["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
 }
 return empArray;
 }
+
+function johnLennonFacts (arr) {
+var results = [];
+
+ var i = 0;
+  while (i < facts.length){
+    results.push(facts[i] + '!!!');
+    i++;
+
+}
+return results;
+}
