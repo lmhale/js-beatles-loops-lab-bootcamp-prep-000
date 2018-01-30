@@ -31,7 +31,7 @@ function iLoveTheBeatles(num){
   var results = [];
   do {
   num ++;
-} while (num < 17);
+} while (num < 15);
  results.push('I love the Beatles!');
  return results;
 }
