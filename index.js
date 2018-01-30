@@ -28,7 +28,7 @@ return results;
 
 
 function iLoveTheBeatles(num){
-  results = [];
+  var results = [];
   do {
   num ++;
 } while (num < 17);
